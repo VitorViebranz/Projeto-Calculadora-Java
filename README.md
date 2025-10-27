@@ -2,7 +2,7 @@
 
 Uma calculadora simples implementada em Java.
 
-![Screenshot da Calculadora](diagrama.png)
+![Screenshot da Calculadora](./diagrama.png)
 
 Descrição
 -
